@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:4b0082,100:8a2be2&height=220&section=header&text=Nouha%20Belkaioua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descColor=e0d4ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4b0082,100:8a2be2&height=220&section=header&text=Nouha%20Belkaioua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descColor=e0d4ff)
 
 <a href="https://github.com/nouhabelkaioua2007">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Node.js;Python+for+LLMs;Learning+Machine+Learning" alt="Typing SVG" />
@@ -26,10 +26,9 @@
 I'm **Nouha**, a 2nd-year Computer Science student at **ESTIN**, focused on building clean, functional products end-to-end — from interface to server — and expanding into applied AI. I work comfortably with **HTML, CSS, and JavaScript** (including **React** and **Node.js**), and I use **Python** to build and experiment with **LLM-powered applications**. I'm currently deepening my foundations in **machine learning**, with a strong bias toward learning by shipping real projects.
 
 **🌱 Open To**
-- 💼 Software engineering internships
 - 🤝 Open source collaboration
-- 🧠 AI/ML projects and research
-- 🌐 Full-stack development opportunities
+- 🧠 AI/ML learning and applied projects
+- 📚 Connecting with other students and builders
 
 ---
 
@@ -67,9 +66,9 @@ I'm **Nouha**, a 2nd-year Computer Science student at **ESTIN**, focused on buil
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Large Language Models (LLMs) | 🟣 Intermediate | Python-based LLM integration, prompt design, and applied experimentation |
+| Large Language Models (LLMs) | 🔵 Beginner | Python-based LLM integration, prompt design, and applied experimentation |
 | Machine Learning Fundamentals | 🔵 Beginner | Building core understanding of ML concepts, algorithms, and workflows |
-| Applied AI Development | 🟣 Intermediate | Using Python to prototype AI-driven features and automation |
+| Applied AI Development | 🔵 Beginner | Using Python to prototype AI-driven features and automation |
 
 ---
 
@@ -105,12 +104,13 @@ A calculator built from scratch in C, with all input parsing and expression-eval
 <tr><td>
 
 #### Logistics Team Member · School of AI Bejaia
-**[2025/2026]**
+**[Add dates, e.g. 2024 – Present]**
 
 Active member of the logistics team for School of AI Bejaia, a student-driven AI community, supporting the operational side of club events and initiatives.
 
 **Scope of Work:**
-- Helped coordinate logistics for club events and workshops(Automate and innovate 2026)
+- Helped coordinate logistics for club events and workshops
+- Supported planning and resource organization for community initiatives
 - Collaborated with cross-functional student teams to ensure smooth execution
 
 **Skills:** `Organization` `Teamwork` `Event Coordination`
@@ -123,10 +123,8 @@ Active member of the logistics team for School of AI Bejaia, a student-driven AI
 ### 📜 Certifications
 
 **Anthropic**
-[![Anthropic](https://img.shields.io/badge/Anthropic-Add_Certification_Name-8A2BE2?style=for-the-badge)](https://www.linkedin.com/in/nouha-belkaioua-504a4438a/)
-[![Anthropic](https://img.shields.io/badge/Anthropic-Add_Certification_Name-6A0DAD?style=for-the-badge)](https://www.linkedin.com/in/nouha-belkaioua-504a4438a/)
-
-> Tell me the exact titles of your 2 Anthropic certificates and I'll swap these badge labels in for you.
+[![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude_Code_101-8A2BE2?style=for-the-badge)](https://verify.skilljar.com/c/s5ir597aytio)
+[![AI Fluency for Builders](https://img.shields.io/badge/Anthropic-AI_Fluency_for_Builders-6A0DAD?style=for-the-badge)](https://verify.skilljar.com/c/fjkvxgah5hxt)
 
 ---
 
@@ -181,9 +179,8 @@ current_focus:
     - Open source contribution
     - Applied AI / ML research
   open_to:
-    - Internships
     - Collaborative projects
-    - Full-stack & AI engineering roles
+    - Connecting with other students and builders
 ```
 
 ---
@@ -204,6 +201,6 @@ current_focus:
 
 <i>"Turning curiosity into code, one project at a time."</i>
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:1a1a2e,50:4b0082,100:8a2be2&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4b0082,100:8a2be2&height=120&section=footer)
 
 </div>
