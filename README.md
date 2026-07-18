@@ -105,13 +105,12 @@ A calculator built from scratch in C, with all input parsing and expression-eval
 <tr><td>
 
 #### Logistics Team Member · School of AI Bejaia
-**[Add dates, e.g. 2024 – Present]**
+**[2025/2026]**
 
 Active member of the logistics team for School of AI Bejaia, a student-driven AI community, supporting the operational side of club events and initiatives.
 
 **Scope of Work:**
-- Helped coordinate logistics for club events and workshops
-- Supported planning and resource organization for community initiatives
+- Helped coordinate logistics for club events and workshops(Automate and innovate 2026)
 - Collaborated with cross-functional student teams to ensure smooth execution
 
 **Skills:** `Organization` `Teamwork` `Event Coordination`
