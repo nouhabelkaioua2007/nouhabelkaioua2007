@@ -6,12 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Node.js;Python+for+LLMs;Learning+Machine+Learning" alt="Typing SVG" />
 </a>
 
-![Academic](https://img.shields.io/badge/🎓-2nd_Year_CS_Student_%40_ESTIN-4B0082?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Jijel%2C_Algeria-6A0DAD?style=flat-square)
+![Academic](https://img.shields.io/badge/%F0%9F%8E%93-2nd_Year_CS_Student_%40_ESTIN-4B0082?style=flat-square)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Jijel%2C_Algeria-6A0DAD?style=flat-square)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouha-belkaioua-504a4438a/)
-[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an_belkaioua@estin.dz)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nouhabelkaioua2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouha-belkaioua-504a4438a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nouha._.belkaioua)
+[![Email](https://img.shields.io/badge/Email-6A0DAD?style=flat&logo=gmail&logoColor=white)](mailto:an_belkaioua@estin.dz)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/nouhabelkaioua2007)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nouhabelkaioua2007&style=flat-square&color=8a2be2&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/nouhabelkaioua2007?style=flat-square&color=8a2be2&label=Followers)
@@ -104,16 +105,17 @@ A calculator built from scratch in C, with all input parsing and expression-eval
 <tr><td>
 
 #### Logistics Team Member · School of AI Bejaia
-**[Add dates, e.g. 2024 – Present]**
+**2025 – 2026**
 
 Active member of the logistics team for School of AI Bejaia, a student-driven AI community, supporting the operational side of club events and initiatives.
 
 **Scope of Work:**
+- Organizer for the **Automate & Innovate** event (April 16–18)
 - Helped coordinate logistics for club events and workshops
 - Supported planning and resource organization for community initiatives
 - Collaborated with cross-functional student teams to ensure smooth execution
 
-**Skills:** `Organization` `Teamwork` `Event Coordination`
+**Skills:** `Organization` `Event Coordination` `Teamwork`
 
 </td></tr>
 </table>
@@ -189,9 +191,10 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an_belkaioua@estin.dz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouha-belkaioua-504a4438a/)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nouhabelkaioua2007)
+[![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=flat&logo=gmail&logoColor=white)](mailto:an_belkaioua@estin.dz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouha-belkaioua-504a4438a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nouha._.belkaioua)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/nouhabelkaioua2007)
 
 </div>
 
