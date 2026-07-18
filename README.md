@@ -130,27 +130,6 @@ Active member of the logistics team for School of AI Bejaia, a student-driven AI
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nouhabelkaioua2007&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=nouhabelkaioua2007&theme=dracula&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouhabelkaioua2007&layout=compact&theme=dracula&hide_border=true" width="55%" />
-</div>
-
----
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nouhabelkaioua2007&theme=dracula&no-frame=true&row=1&column=7" />
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
