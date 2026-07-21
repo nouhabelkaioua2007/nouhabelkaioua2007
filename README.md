@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4b0082,100:8a2be2&height=220&section=header&text=Nouha%20Belkaioua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descColor=e0d4ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4b0082,100:8a2be2&height=220&section=header&text=Nouha%20Belkaioua&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descColor=e0d4ff)
 
 <a href="https://github.com/nouhabelkaioua2007">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Node.js;Python+for+LLMs;Learning+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+Node.js;Python+for+LLMs;Learning+Machine+Learning" alt="Typing SVG" />
 </a>
 
 ![Academic](https://img.shields.io/badge/%F0%9F%8E%93-2nd_Year_CS_Student_%40_ESTIN-4B0082?style=flat-square)
